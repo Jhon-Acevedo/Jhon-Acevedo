@@ -91,7 +91,7 @@ maybe a medium will try to make a game or maybe not.</p>
 
 
 
-<h2 align="center"> Game with my commits </h2>
+<h2 align="center"> Game with commits </h2>
 
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
