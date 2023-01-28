@@ -84,13 +84,20 @@
 
 <h2 align="center"> Starts </h2>
 
+<div align="center"> 
+  
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Jhon-Acevedo&show_icons=true&theme=tokyonight&locale=es&bg_color=00000000&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Acevedo&theme=tokyonight&locale=es&layout=compact&bg_color=00000000&hide_border=true) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ 
+
+</div>
 <br>
 
 
 <h2 align="center"> Game with commits </h2>
-
+<div align="center"> 
+  
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+</div>
 <br>
