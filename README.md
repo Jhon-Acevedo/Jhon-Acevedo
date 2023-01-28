@@ -1,21 +1,17 @@
 <h2> Hi, I'm Jhon <img src="https://i.pinimg.com/originals/e1/06/ee/e106ee093d744089a5ce56fd49675047.gif" width="50"></h2>
-<p>
 
-[//]: # (    <img align='right' src="https://comiqueros.cl/wp-content/uploads/2020/04/NGE11.jpg" width="300"&#41;)
+<p>
 <em>I'm a computer and systems engineering student at:</em>
   </br> 
   🏫 <a href="https://www.uptc.edu.co">Universidad Pedagógica y Tecnológica de Colombia</a>
 </p>
 
-<p>I'm a developer focused on back-end development, but I like to read all about technologies on the web and game development, maybe one day I'll try to make a game or maybe not.</p>
+<p>I'm a developer focused on backend development, but I like to read all about technologies on the web and game development, maybe one day I'll try to make a game or maybe not.</p>
 
-
-<h2>🛠️ Technologies and Tools </h2>
-
-
+<div>
+<h2>🛠️ Stack</h2>
 <div style="margin-left: 5%">
 <h4>🌐 Web</h4>
-
 
 ![Express](https://img.shields.io/badge/-Express-black?&logo=express&style=flat)
 ![Spring](https://img.shields.io/badge/-Spring-65b743?&logo=spring&logoColor=white&style=flat)
@@ -25,7 +21,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=white&style=flat)
 
 <h4>📘 Programming languages</h4>
-
 
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript&style=flat)
@@ -61,15 +56,16 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?&logo=swagger&logoColor=black&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?&logo=jira&logoColor=white&style=flat)
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?&logo=discord&logoColor=white&style=flat)
-</div>
 
-## 📫 Follow me:
+
+<h3> 📫 Follow me: </h3>
 
 - [![Linkedin: Jhon Acevedo](https://img.shields.io/badge/-JhonAcevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jhon-acevedo-/)](https://www.linkedin.com/in/jhon-acevedo-/)
 - [![Spoty: Jhon Acevedo](https://img.shields.io/badge/-JhonAcevedo-black?style=flat-square&logo=spotify&logoColor=white&link=https://https://open.spotify.com/user/1213141516?si=0b8b0b0b0b0b0b0b)](https://open.spotify.com/user/22b2n4n3djm5smkwzkixqjm5q)
 
+</div>
 
-
+<div>
 
 <h2 align="center"> Personal information  </h2>
 <div>
@@ -86,8 +82,11 @@
 </div>
 <br>
 
+<h2 align="center"> Starts </h2>
 
-
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Jhon-Acevedo&show_icons=true&theme=tokyonight&locale=es&bg_color=00000000&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Acevedo&theme=tokyonight&locale=es&layout=compact&bg_color=00000000&hide_border=true) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ 
+<br>
 
 
 <h2 align="center"> Game with commits </h2>
