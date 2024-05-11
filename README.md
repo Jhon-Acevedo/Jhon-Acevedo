@@ -5,7 +5,7 @@
   🏫 <a href="https://www.uptc.edu.co" style"text-decoration: none" =>Universidad Pedagógica y Tecnológica de Colombia</a>
 </p>
 
-<p>I'm a developer focused on backend development, but I like to read all about technologies on the web and game development, maybe one day I'll try to make a game or maybe not.</p>
+<p>I'm a developer focused on backend development, but I like to read about all technologies on the web and game development. Maybe one day I'll try to make a game, or maybe not.</p>
 
 <div>
 <h2>🛠️ Full Stack</h2>
